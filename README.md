@@ -6,6 +6,8 @@ Interpretable Machine Learning. Find a great overview of different methods in [I
   - [“Why should I trust you?” Explaining the predictions of any classifier](https://arxiv.org/pdf/1602.04938.pdf) (2016) *Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*
 
 ### Global explanations
+- **Feature importance**
+  - [Model-agnostic Feature Importance and Effectswith Dependent Features – A Conditional Subgroup Approach](https://arxiv.org/pdf/2006.04628.pdf) (2020) *Christoph Molnar, Gunnar Konig, Bernd Bischl, Giuseppe Casalicchio*
 - SHAP. Shapley Additive Exlanations ([Code](https://github.com/slundberg/shap), [PyPI](https://pypi.org/project/shap/))
   - [A Unified Approach to Interpreting ModelPredictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) (2017) *Scott M. Lundberg, Su-In Lee*
 - DeepLift. Deep Learning Important Features ([Code](https://github.com/kundajelab/deeplift), [Video](https://www.youtube.com/playlist?list=PLJLjQOkqSRTP3cLB2cOOi_bQFw6KPGKML))
@@ -18,3 +20,4 @@ Interpretable Machine Learning. Find a great overview of different methods in [I
 ### Critics
 - [Stop explaining black box machine learning models for high stakes decisions and use interpretablemodels instead](https://arxiv.org/pdf/1811.10154.pdf) (2019) *Cynthia Rudin*
 - [Limitations of Interpretable Machine Learning Methods](https://compstat-lmu.github.io/iml_methods_limitations/) (2020)
+- [Please Stop Permuting Features. An Explanation and Alternatives](https://arxiv.org/pdf/1905.03151v1.pdf) (2019) *Giles Hooker, Lucas Mentch*
