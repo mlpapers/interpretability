@@ -21,3 +21,4 @@ Interpretable Machine Learning. Find a great overview of different methods in [I
 - [Stop explaining black box machine learning models for high stakes decisions and use interpretablemodels instead](https://arxiv.org/pdf/1811.10154.pdf) (2019) *Cynthia Rudin*
 - [Limitations of Interpretable Machine Learning Methods](https://compstat-lmu.github.io/iml_methods_limitations/) (2020)
 - [Please Stop Permuting Features. An Explanation and Alternatives](https://arxiv.org/pdf/1905.03151v1.pdf) (2019) *Giles Hooker, Lucas Mentch*
+- [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf) (2019) *Sarthak Jain, Byron C. Wallace*
