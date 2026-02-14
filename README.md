@@ -1,3 +1,10 @@
+---
+title: "Interpretability, Explainable AI"
+aliases: ["XAI", "Explainability", "Model interpretability"]
+tags:
+  - interpretability
+  - explainability
+---
 # Interpretability, Explainable AI
 Interpretable Machine Learning. Overview of different methods:
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) *Christoph Molnar*
@@ -32,10 +39,16 @@ Interpretable Machine Learning. Overview of different methods:
 - [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf) (2019) *Sarthak Jain, Byron C. Wallace*
 - [Pitfalls to Avoid when Interpreting Machine Learning Models](https://arxiv.org/pdf/2007.04131.pdf) (2020) *Christoph Molnar, Gunnar Konig, Julia Herbinger, Timo Freiesleben, Susanne Dandl, Christian A. Scholbeck, Giuseppe Casalicchio, Moritz Grosse-Wentrup, Bernd Bisch*
 
-### Software
+## Software
 - **Python**
   - Captum - model interpretability and understanding for PyTorch ([Homepage](https://captum.ai/), [Paper](https://arxiv.org/pdf/2009.07896.pdf))
   - AIX360 ([Homepage](http://aix360.mybluemix.net/))
   - Alibi ([Homepage](https://docs.seldon.io/projects/alibi/), [PyPI](https://pypi.org/project/alibi/))
   - Eli5 ([Homepage](https://eli5.readthedocs.io/en/latest/index.html), [PyPI](https://pypi.org/project/eli5/))
 
+
+## Related Topics
+- [Neural Networks](https://mlpapers.org/neural-nets/)
+- [Models](https://mlpapers.org/models/)
+- [Feature Selection](https://mlpapers.org/feature-selection/)
+- [Ensemble Learning](https://mlpapers.org/ensemble-learning/)
