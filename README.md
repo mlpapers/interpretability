@@ -1,10 +1,3 @@
----
-title: "Interpretability, Explainable AI"
-aliases: ["XAI", "Explainability", "Model interpretability"]
-tags:
-  - interpretability
-  - explainability
----
 # Interpretability, Explainable AI
 Interpretable Machine Learning. Overview of different methods:
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) *Christoph Molnar*
